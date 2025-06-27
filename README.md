@@ -74,6 +74,9 @@ Dates.csv	           Calendar dimension for time analysis
 
 └── README.md
 
+ **Relationships **
+ 
+![image alt](https://github.com/Tanvijirafe/Sales-_Distribution/blob/a830f3ebb00b093d67ec462ea5197a30ca31fbb3/Reletionships%20T.png)
 
 
 🧮 **Key DAX Measures** 
