@@ -105,8 +105,8 @@ Dates.csv	           Calendar dimension for time analysis
 
 📷 **Dashboard Preview**
 
-[Insert screenshot of your dashboard here]
 
+![image alt](https://github.com/Tanvijirafe/Sales-_Distribution/blob/f4c29897ef7deebc8becdeb7a2fd0b64cfec62f6/Dashboard.png)
 
 🙌 **Acknowledgments**
 
