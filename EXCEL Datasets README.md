@@ -10,3 +10,8 @@ Product Table
 Store Table
 
 ![image alt](https://github.com/Tanvijirafe/Sales-_Distribution/blob/9b70de2fcc9b830a87a6235608989aa8d508d964/Store%20Table.png)
+
+
+Sales Tables
+
+![image alt]
